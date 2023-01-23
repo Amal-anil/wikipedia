@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+
+    background-color: #c3f8ff;
+}
+.nav {
+    border: 1px solid;
+    background-color: #d2daff;
+}
+
+.aside {
+    display: flex;
+    margin: 10px;
+    gap: 10px;
+}
+.image1 img {
+    width: 150px;
+}
+.date a {
+    display: block;
+    text-decoration: none;
+}
+.middle1 {
+    text-align: right;
+    padding: 0;
+    margin: 10px;
+}
+.middle1 a {
+    text-decoration: none;
+}
+.middle2 {
+    display: inline;
+}
+.middle2 a {
+    text-decoration: none;
+}
+.middle2-side {
+    display: inline;
+    position: relative;
+    right: -820px;
+}
+.middle2-side form {
+    display: inline;
+}
+.middle2-side a {
+    text-decoration: none;
+}
+.wiki p {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.wiki h2 {
+    margin: 0;
+    padding: 0;
+}
+.wiki {
+    margin: 10px;
+    border: solid 1px;
+    background-color: #d2daff;
+}
+.tittle {
+    margin: 10px;
+    background-color: #d2daff;
+}
+.first {
+    width: fit-content;
+    background-color: #d2daff;
+}
+.second {
+    width: fit-content;
+}
+.first-1 {
+    border: solid 1px;
+    margin: 5px;
+    background-color: #92b4ec;
+}
+.first-1 p {
+    margin: 5px;
+}
+.second-1 {
+    border: 1px solid;
+    margin: 5px;
+    background-color: #00ffab;
+}
+.second-1 p {
+    margin: 5px;
+}
+.first-2 img {
+    float: left;
+    padding: 5px;
+}
+.first-3 p {
+    text-align: right;
+    margin: 0;
+}
+.second-2 {
+    display: flex;
+}
+em {
+    font-size: smaller;
+}
+.second-3 {
+    margin: 0;
+}
+.second-4 {
+    text-align: right;
+}
+.first-4 {
+    border: 1px solid;
+    margin: 5px;
+    background-color: #92b4ec;
+}
+.first-4 p {
+    margin: 5px;
+}
+.first-5 {
+    display: flex;
+}
+.first-5 img {
+    padding: 5px;
+    width: 150px;
+}
+.first-6 {
+    text-align: right;
+}
+.second-5 {
+    border: 1px solid;
+    margin: 5px;
+    background-color: #00ffab;
+}
+.second-5 p {
+    margin: 5px;
+}
+
+.second-6 {
+    display: flex;
+    margin: 5px;
+}
+.date {
+    margin: 12px;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.nav1 {
+    margin: 12px;
+}
+.footer p {
+    text-align: center;
+    margin: 0;
+}
